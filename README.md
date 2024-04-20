@@ -2,7 +2,7 @@
 
 👀 Estoy interesado en crear aplicaciones y páginas web.
 
-🌱 Actualmente estoy aprendiendo Node.js.
+🌱 Actualmente estoy aprendiendo Python y su referentes framework.
 
 💡 Me gusta colaborar en proyectos que contribuyan a mi aprendizaje.
 
